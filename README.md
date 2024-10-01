@@ -1,5 +1,5 @@
 <section id="ABOUT ME">
-    <img src="https://www.facebook.com/prttyMae21">
+    <img src="me.jpg" alt=""/>
   
 <h1 align="center">Hi 👋, I'm Lina Mae Balahay (aka Yna)</h1>
 <h3 align="center"> A Noob Prog-Grammer</h3>
