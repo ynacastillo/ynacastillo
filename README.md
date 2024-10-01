@@ -1,11 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html"; charset="utf-8"/>
+    <meta name=""  content="">
+    <link rel="stylesheet"  href="Style.css" title="" type="" />
+</head>
+<body>
+
 <section id="ABOUT ME">
+    <center> 
     <img src="me.jpg" alt=""/>
   
 <h1 align="center">Hi 👋, I'm Lina Mae Balahay (aka Yna)</h1>
 <h3 align="center"> A Noob Prog-Grammer</h3>
-<h3 align="left">. Hi ! I'm Lina Mae Balahay, 20 years old. Hoping to learn new things from Programming. Aspiring to be a Software Engineer in the near future, currently I'm still learning HTML, CSS and JS.
+<h3 align="left">. Hi ! I'm Lina Mae , 20 years old. Hoping to learn new things from Programming. Aspiring to be a Software Engineer in the near future, currently I'm still learning HTML, CSS and JS.
 
 
+
+
+
+ </center>
+</body>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
