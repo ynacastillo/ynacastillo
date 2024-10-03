@@ -13,7 +13,7 @@
   
 <h1 align="center">Hi 👋, I'm Lina Mae Balahay (aka Yna)</h1>
 <h3 align="center"> A Noob Prog-Grammer</h3>
-<h3 align="left">. Hi ! I'm Lina Mae , 20 years old. Hoping to learn new things from Programming. Aspiring to be a Software Engineer in the near future, currently I'm still learning HTML, CSS and JS.
+<h3 align="left">. Hi ! I'm Lina Mae. Hoping to learn new things from Programming. Aspiring to be a Software Engineer in the near future, currently I'm still learning HTML, CSS and JS.
 
 
 
