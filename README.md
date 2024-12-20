@@ -19,8 +19,7 @@
 </body>
      
 
-<h5 align="left">
-⚙️ Languages:
+<h5 align="left">⚙️ Languages: </h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,css,html,c,java,js,py,cs,kotlin,php,dart,arduino" />
@@ -29,8 +28,7 @@
 
 
 
-
-⚙️ Frameworks:
+<h5 align="left">⚙️ Frameworks: </h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue.js,angular,bootstrap,react,vue,tailwind,dotnet,jquery,figma,wordpress,django,laravel,flutter,flask, ps,pr,svelte,xd," />
@@ -40,7 +38,7 @@
 
 
 
-⚙️ IDE and Databases:
+<h5 align="left"> ⚙️ IDE and Databases: </h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,sublime,netbeans,azure,windows,replit,xcode,aws,vite,vuetify,wasm, mongoDB,sqlite,postgres,mysql" />
@@ -49,7 +47,7 @@
 
 
 
-⚙️ Tools:
+<h5 align="left"> ⚙️ Tools: </h5>
 <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=git,arch,ai,kali,stackoverflow,bash,coffeescript,debian,docker,elixir,express,linux,md,nestjs,neovim,nim,npm,nuxtjs,nix,opencv,svg,threejs,ubuntu,vercel,vim" />
@@ -58,11 +56,10 @@
 
 
 
-🖇️ Connect with me: 
+<h5 align="left"> 🖇️ Connect with me: </h5>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,discord" />
   </a>
 </p>
-</h5>
 </section> 
