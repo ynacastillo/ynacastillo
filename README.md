@@ -26,18 +26,40 @@
   </a>
 </p>
 
-<h4 align="left">Frameworks: </h4>
+<h5 align="left">Frameworks: </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue.js,angular,bootstrap,react,vue,tailwind,dotnet,jquery,figma,wordpress,django,laravel,flutter,flask" />
+    <img src="https://skillicons.dev/icons?i=vue.js,angular,bootstrap,react,vue,tailwind,dotnet,jquery,figma,wordpress,django,laravel,flutter,flask, ps,pr,svelte,xd," />
   </a>
 </p>
 
 
-<h4 align="left">IDEs: </h4>
+<h5 align="left">IDE's: </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,sublime,netbeans,azure,windows,replit,xcode,sqlite,aws" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,sublime,netbeans,azure,windows,replit,xcode,aws,vite,vuetify,wasm" />
+  </a>
+</p>
+
+<h5 align="left">Databases: </h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongoDB,sqlite,sqlite,mariaDB,postgres" />
+  </a>
+</p>
+
+<h5 align="left">Tools: </h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git, arch, ai, kali, stackoverflow,bash, coffeescript,debian,docker,elixir, express,linux,md,nestjs,neovim,netlify,nim,npm,nuxtjs,nix,opencv,octave,svg,threejs,ubuntu,vercel,vim," />
+  </a>
+</p>
+
+
+<h6 align="left">Connect with me: </h6>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
