@@ -19,14 +19,16 @@
 </body>
      
 
-<h4 align="left">Languages: </h4>
+
+⚙️ Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,c,java,js,py,cs,kotlin,php" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,c,java,js,py,cs,kotlin,php,dart,arduino" />
   </a>
 </p>
 
-<h5 align="left">Frameworks: </h5>
+
+⚙️ Frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue.js,angular,bootstrap,react,vue,tailwind,dotnet,jquery,figma,wordpress,django,laravel,flutter,flask, ps,pr,svelte,xd," />
@@ -34,21 +36,14 @@
 </p>
 
 
-<h5 align="left">IDE's: </h5>
+⚙️ IDE and Databases:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,sublime,netbeans,azure,windows,replit,xcode,aws,vite,vuetify,wasm" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,sublime,netbeans,azure,windows,replit,xcode,aws,vite,vuetify,wasm, mongoDB,sqlite,postgres,mysql" />
   </a>
 </p>
 
-<h5 align="left">Databases: </h5>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongoDB,sqlite,postgres,mysql" />
-  </a>
-</p>
-
-<h5 align="left">Tools: </h5>
+⚙️ Tools:
 <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=git,arch,ai,kali,stackoverflow,bash,coffeescript,debian,docker,elixir,express,linux,md,nestjs,neovim,nim,npm,nuxtjs,nix,opencv,svg,threejs,ubuntu,vercel,vim" />
@@ -56,7 +51,7 @@
 </p>
 
 
-<h6 align="left">Connect with me: </h6>
+🖇️ Connect with me: 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,discord" />
