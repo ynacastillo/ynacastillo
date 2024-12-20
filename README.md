@@ -50,8 +50,9 @@
 
 <h5 align="left">Tools: </h5>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=git,arch,ai,kali,stackoverflow,bash,coffeescript,debian,docker,elixir,express,linux,md,nestjs,neovim,nim,npm,nuxtjs,nix,opencv,svg,threejs,ubuntu,vercel,vim,)]
-(https://skillicons.dev)
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,arch,ai,kali,stackoverflow,bash,coffeescript,debian,docker,elixir,express,linux,md,nestjs,neovim,nim,npm,nuxtjs,nix,opencv,svg,threejs,ubuntu,vercel,vim" />
+  </a>
 </p>
 
 
