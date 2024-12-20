@@ -19,18 +19,25 @@
 </body>
      
 
-<h2 align="left">Languages: </h2>
+<h4 align="left">Languages: </h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,css,html,c,java,js,py,cs,kotlin,php" />
   </a>
 </p>
 
-
-<h2 align="left">Frameworks: </h2>
+<h4 align="left">Frameworks: </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue.js,angular,bootstrap,react,vue,tailwind,dotnet,jquery,figma,wordpress,django,laravel,flutter" />
+    <img src="https://skillicons.dev/icons?i=vue.js,angular,bootstrap,react,vue,tailwind,dotnet,jquery,figma,wordpress,django,laravel,flutter,flask" />
+  </a>
+</p>
+
+
+<h4 align="left">IDEs: </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,sublime,netbeans,azure,windows,replit,xcode,sqlite,aws" />
   </a>
 </p>
 
