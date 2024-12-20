@@ -44,7 +44,7 @@
 <h5 align="left">Databases: </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongoDB,sqlite,sqlite,mariaDB,postgres" />
+    <img src="https://skillicons.dev/icons?i=mongoDB,sqlite,postgres,mysql" />
   </a>
 </p>
 
