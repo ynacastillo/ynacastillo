@@ -12,9 +12,8 @@
     
   
 <h1 align="center">Hi 👋, I'm Lina Mae  (aka Yna)</h1>
-<h3 align="center"> A Noob Prog-Grammer</h3>
-<h3 align="left">. Hi ! I'm Lina Mae. Hoping to learn new things from Programming. Aspiring to be a Software Engineer in the near future, currently I'm still learning HTML, CSS and JS.
-
+<h6 align="center"> Programmer In Progress </h6>
+<h6 align="left">.  I'm hoping to learn new things from Programming. Aspiring to be a Software Engineer in the near future, currently I'm still learning HTML, CSS and JS.
    
 </body>
      
@@ -28,12 +27,16 @@
 </p>
 
 
+
+
 ⚙️ Frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue.js,angular,bootstrap,react,vue,tailwind,dotnet,jquery,figma,wordpress,django,laravel,flutter,flask, ps,pr,svelte,xd," />
   </a>
 </p>
+
+
 
 
 ⚙️ IDE and Databases:
@@ -43,12 +46,15 @@
   </a>
 </p>
 
+
+
 ⚙️ Tools:
 <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=git,arch,ai,kali,stackoverflow,bash,coffeescript,debian,docker,elixir,express,linux,md,nestjs,neovim,nim,npm,nuxtjs,nix,opencv,svg,threejs,ubuntu,vercel,vim" />
   </a>
 </p>
+
 
 
 🖇️ Connect with me: 
