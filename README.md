@@ -51,7 +51,7 @@
 <h5 align="left">Tools: </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, arch, ai, kali, stackoverflow,bash, coffeescript,debian,docker,elixir, express,linux,md,nestjs,neovim,netlify,nim,npm,nuxtjs,nix,opencv,octave,svg,threejs,ubuntu,vercel,vim," />
+    <img src="https://skillicons.dev/icons?i=git, arch,ai,kali,stackoverflow,bash,coffeescript,debian,docker,elixir,express,linux,md,nestjs,neovim,nim,npm,nuxtjs,nix,opencv,svg,threejs,ubuntu,vercel,vim" />
   </a>
 </p>
 
