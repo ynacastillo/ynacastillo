@@ -57,12 +57,10 @@
 
 
 <h6 align="left">Connect with me: </h6>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github,discord" />
   </a>
 </p>
-
-
 
 </section> 
