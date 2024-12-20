@@ -19,10 +19,21 @@
 </body>
      
 
-<h3 align="left">Languages: </h3>
+<h2 align="left">Languages: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,c,java,js,py,cs,kotlin" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,c,java,js,py,cs,kotlin,php" />
   </a>
 </p>
+
+
+<h2 align="left">Frameworks: </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue.js,angular,bootstrap,react,vue,tailwind,dotnet,jquery,figma,wordpress,django,laravel,flutter" />
+  </a>
+</p>
+
+
+
 </section> 
