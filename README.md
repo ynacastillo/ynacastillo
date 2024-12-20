@@ -19,7 +19,7 @@
 </body>
      
 
-
+<h5 align="left">
 ⚙️ Languages:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -64,5 +64,5 @@
     <img src="https://skillicons.dev/icons?i=github,discord" />
   </a>
 </p>
-
+</h5>
 </section> 
