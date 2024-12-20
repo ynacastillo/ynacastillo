@@ -19,10 +19,10 @@
 </body>
      
 
-<h3 align="left">Programming Languages: </h3>
+<h3 align="left">Languages: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,c,java,js,py,cs,kotlin" />
   </a>
 </p>
 </section> 
