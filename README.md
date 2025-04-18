@@ -13,7 +13,7 @@
   
 <h1 align="center">Hi 👋, I'm Lina (aka Yna)</h1>
 <h2 align="center"> Programmer In Progress </h2>
-<h4 align="left">  I'm hoping to learn new things from Programming. Aspiring to be a Software Engineer in the near future, currently I'm still learning HTML, CSS and JS.
+<h4 align="left">  I hope to learn new things from Programming. Aspiring to be a Software Engineer shortly, I'm currently learning HTML, CSS, and JS.
 </h4>
    
 </body>
