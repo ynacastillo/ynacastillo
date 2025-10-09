@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋! Lina Mae here. :) </h2>
 
 # 💫 About Me:
-I always want to try my hand at a dynamic, young, and creative working environment. I have basic experience in communicating with costumers, and my skills in handling situations as well as management are relatively stable.<br>
+I always want to try my hand at a dynamic, young and creative working environment. I have basic experience in building your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way .<br>
 
 
 # 💻 Tech Stack:
@@ -51,5 +51,5 @@ I always want to try my hand at a dynamic, young, and creative working environme
 
 ###
 
--- meow 
+-- meow 😺
 
