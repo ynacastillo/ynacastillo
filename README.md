@@ -27,17 +27,17 @@ I always want to try my hand at a dynamic, young and creative working environmen
   <a href="https://www.instagram.com/ynacas22/">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
-  <a href="https://www.facebook.com/ynacastillo20/
-    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
-  </a>
+  <a href="https://www.facebook.com/share/ynacastillo20?mibextid=rS40aB7S9Ucbxw6v">      
+    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />  </a>
+    
   <a href="https://discord.com/users/1210245187138355200">
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ynacastillo">
-    <img src="https://komarev.com/ghpvc/?username=ynacastillo&color=3a8296&label=Profile%20Views" />
+  <a href="https://github.com/Saboo24">
+    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
   </a>
   <a href="https://github.com/ynacastillo">
     <img src="https://img.shields.io/github/followers/ynacastillo?label=GitHub%20Followers&color=3a8296&style=flat" />
