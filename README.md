@@ -1,7 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f96ce5,100:091519&height=150&text=Hi,%20Lina%20Mae%20here!&fontSize=50&fontColor=f00cc4&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Digital%20Marketer&descSize=27&descAlignY=85&section=header" />
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Lina+Mae+" />
+</h3>
 
-# 💫 About Me:
-I always want to try my hand at a dynamic, young and creative working environment. I have basic experience in building your website so that it is functional and user-friendly, but at the same time attractive. Moreover, I add a personal touch to your product and make sure that it is eye-catching and easy to use. I aim to bring across your message and identity in the most creative way .<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
+</p>
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+
+
+
+
+---
+
+
+- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
+- 🌱 I’m currently learning how to code properly
+
+
+---
+
 
 
 💡 *“Tomorrow, Built Today”*
@@ -68,8 +86,8 @@ I always want to try my hand at a dynamic, young and creative working environmen
 
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ynacastillo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ynacastillo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaKooLit&theme=tokyonight)  
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynacastillo&theme=tokyonight)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
