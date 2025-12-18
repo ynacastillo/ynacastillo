@@ -89,9 +89,9 @@
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaKooLit&theme=tokyonight)  
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynacastillo&theme=tokyonight)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p>
+  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=gotham&hide_border=true&v=STAT_TIMESTAMP" />
+</p>
 
 
 
